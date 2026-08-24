@@ -113,7 +113,7 @@ CytoLENS was validated against flow cytometry using FD150 dextran uptake in iPSC
 ## Platform
 
 - Imaging: xCELLigence RTCA eSight (Agilent)
-- Cell line: iPSCs (HD05, 1146, SCTi003-A)
+- Cell line: Three different iPSC cell lines
 - GPU: NVIDIA RTX 4080, CUDA 12.1
 - Cellpose version: 4.1.1
 
