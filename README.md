@@ -1,6 +1,6 @@
 # CytoLENS
 
-**CytoLENS** is an automated fluorescence image analysis pipeline for quantifying intracellular cargo uptake in iPSCs using Cellpose-based nuclear segmentation. Developed at NIBRT Ltd, Dublin.
+**CytoLENS** is an automated fluorescence image analysis pipeline for quantifying intracellular cargo uptake in iPSCs using Cellpose-based nuclear segmentation. 
 
 ## Overview
 
